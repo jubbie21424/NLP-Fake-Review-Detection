@@ -1,0 +1,25 @@
+# Core data handling
+pandas>=2.0
+numpy>=1.24
+
+# Machine learning (TF-IDF + Logistic Regression baseline)
+scikit-learn>=1.3
+scipy>=1.10
+joblib>=1.3
+
+# Deep learning (BERT fine-tuning)
+torch>=2.1
+transformers>=4.35
+
+# Dataset loading (Hugging Face)
+datasets>=2.14
+
+# NLP preprocessing
+nltk>=3.8
+
+# Visualisation
+matplotlib>=3.7
+
+# Notebook execution
+jupyter>=1.0
+ipykernel>=6.25
