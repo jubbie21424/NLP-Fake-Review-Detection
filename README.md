@@ -1,4 +1,4 @@
-# Detecting Deceptive Reviews: A Comparative NLP Study
+# NLP-Fake-Review-Detection
 
 Comparing a TF-IDF + Logistic Regression baseline against a fine-tuned BERT classifier for detecting computer-generated fake product reviews, with a subgroup error analysis across review length and star rating.
 
@@ -82,4 +82,3 @@ The dataset contains only computer-generated fake reviews (not human-written dec
 ## References
 
 Key sources cited in the report include Devlin et al. (2019) on BERT, and Duma et al. (2024) on fake review detection literature — see the report's reference list for the complete bibliography.
-# NLP-Fake-Review-Detection
